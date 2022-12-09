@@ -15,3 +15,24 @@ userName1 = prompt("Enter User Name: ");
 console.log(userName1);
 
 var username,address;
+
+var num = prompt("Enter a Number: ");
+console.log(num);
+
+//while loop
+var num = 1;
+
+while(num <= 10){
+    console.log(num);
+    num++;
+}
+
+//for loop
+for(i = 1; i<=10; i++){
+    console.log("This is For Loop in JavaScript");
+}
+
+//array
+
+var marks = [75,80,55,95];
+
