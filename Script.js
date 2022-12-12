@@ -36,3 +36,22 @@ for(i = 1; i<=10; i++){
 
 var marks = [75,80,55,95];
 
+window.alert("This is alert Message");
+
+//Variable
+
+//Can use (let , var , const)
+
+
+//Ussing let
+let age;
+age = 21;
+console.log(age);
+
+let firstName = "JD";
+console.log(firstName);
+
+//*******to access the HTML file Eliment Use this  */
+//-----document.getElementByID------
+
+document.getElementById("p1").innerHTML = "This is Change Paragraph";
