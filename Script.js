@@ -55,3 +55,8 @@ console.log(firstName);
 //-----document.getElementByID------
 
 document.getElementById("p1").innerHTML = "This is Change Paragraph";
+
+//get User input using pop-up Window
+
+let getUserName = window.prompt("Enter You'r Name Here ");
+console.log(getUserName);
