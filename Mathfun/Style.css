@@ -1,0 +1,21 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+#decreaseBtn{
+    background-color: red;
+    border-radius: 10px;
+    
+}
+
+#increaseBtn{
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+#resetBtn{
+    background-color: coral;
+    border-radius: 10px;
+}
