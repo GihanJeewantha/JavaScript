@@ -1,6 +1,6 @@
-function welcome() {
-  console.log("Welcome Master JD");
+function welcome(name) {
+  console.log("Welcome " + name);
 }
 
 //call the function
-welcome();
+welcome("Master JD");
